@@ -36,7 +36,7 @@ func main() {
 		"3x2":  3.0 / 2.0,
 		"4x3":  4.0 / 3.0,
 		"5x4":  5.0 / 4.0,
-		"1x1":  1.0,
+		"3x3":  1.0,
 	}
 	var ext string
 	extMap := map[string]bool{
